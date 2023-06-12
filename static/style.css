@@ -1,0 +1,63 @@
+.container {
+    border: solid black 2px;
+    width: 450px;
+    margin-top: 200px;
+    background-color: rgb(43, 42, 42);
+
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.row1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+}
+
+.row2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+}
+
+.row3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+}
+
+.comment {
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.btn {
+    display: flex;
+    justify-content: end;
+
+}
+
+.submit_btn {
+    border-radius: 4px;
+    border: solid rgb(255, 255, 255) 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+p {
+    font-size: 25px;
+    color: rgb(255, 255, 255)
+}
+
+a {
+    display: flex;
+    justify-content: end;
+}
